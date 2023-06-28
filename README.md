@@ -1,5 +1,5 @@
 # movies-app
-
+https://arnurarykbaev.github.io/movies-app/
 ## Project setup
 ```
 npm install
